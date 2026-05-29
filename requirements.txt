@@ -1,0 +1,13 @@
+# CSVForge-CLI
+# Zero-dependency core - Python standard library only
+# This file is for development and testing purposes only
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+
+# Optional: For enhanced performance
+# ujson>=5.0.0  # Faster JSON processing (optional)
